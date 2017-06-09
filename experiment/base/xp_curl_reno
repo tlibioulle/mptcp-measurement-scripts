@@ -1,0 +1,5 @@
+xpType:curl
+clientPcap:yes
+serverPcap:no
+congctrl:reno
+snaplenPcap:96

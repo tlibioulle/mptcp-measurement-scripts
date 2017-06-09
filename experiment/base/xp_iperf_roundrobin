@@ -1,0 +1,6 @@
+xpType:iperf
+clientPcap:yes
+serverPcap:no
+congctrl:lia
+sched:roundrobin
+snaplenPcap:96

@@ -1,0 +1,4 @@
+topoType:MultiIf
+leftSubnet:10.0.
+rightSubnet:10.1.
+#path_x:delay,queueSize(may be calc),bw(Mb),loss

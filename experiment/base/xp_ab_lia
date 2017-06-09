@@ -1,0 +1,7 @@
+xpType:ab
+clientPcap:yes
+serverPcap:no
+sched:default
+congctrl:lia
+snaplenPcap:96
+abConccurentRequests:1

@@ -1,0 +1,5 @@
+xpType:iperf
+clientPcap:yes
+serverPcap:no
+congctrl:wvegas
+snaplenPcap:96

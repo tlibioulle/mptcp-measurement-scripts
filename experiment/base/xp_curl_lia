@@ -1,0 +1,6 @@
+xpType:curl
+clientPcap:yes
+serverPcap:no
+sched:default
+congctrl:lia
+snaplenPcap:96

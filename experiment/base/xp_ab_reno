@@ -1,0 +1,6 @@
+xpType:ab
+clientPcap:yes
+serverPcap:no
+congctrl:reno
+snaplenPcap:96
+abConccurentRequests:1

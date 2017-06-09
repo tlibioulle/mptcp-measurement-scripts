@@ -1,0 +1,5 @@
+xpType:iperf
+clientPcap:yes
+serverPcap:no
+congctrl:balia
+snaplenPcap:96

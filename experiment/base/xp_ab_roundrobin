@@ -1,0 +1,7 @@
+xpType:ab
+clientPcap:yes
+serverPcap:no
+congctrl:lia
+sched:roundrobin
+snaplenPcap:96
+abConccurentRequests:1
